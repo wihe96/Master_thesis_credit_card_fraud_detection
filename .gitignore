@@ -166,3 +166,6 @@ cython_debug/
 # .h5 and .joblib
 *.h5
 *.joblib
+
+# config.txt
+config.txt
